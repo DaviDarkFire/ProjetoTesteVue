@@ -1,5 +1,7 @@
 # test
 
+Todo list implementada com Vue.js
+
 ## Project setup
 ```
 npm install
